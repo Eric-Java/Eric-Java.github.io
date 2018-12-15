@@ -1,2 +1,2 @@
 # Eric-Java.github.io
-my blog websitre
+my blog website
